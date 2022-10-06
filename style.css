@@ -1,0 +1,15 @@
+hero-section {
+    background-image: url(/bootstrap/banner-bg.jpg);
+    background-size: cover;
+
+}
+
+.hero {
+    z-index: 999;
+}
+
+.about {
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
