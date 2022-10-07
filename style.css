@@ -5,6 +5,9 @@ p, li{
     font-size: 15px;
     font-weight: 400;
 }
+.navbar{
+    z-index: 9999;
+}
 .my-hero{
     background-image: url(/assets/banner-bg.jpg);
     background-size: cover;
